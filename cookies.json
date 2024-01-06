@@ -1,0 +1,67 @@
+[
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1736056655,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_mid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "9a028a5e-d604-44d4-acbf-20f4ed603b4d33bb89"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1735201936.65592,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "GbKGGOazBKGttqpXjWtIrofSvMVCTygwtYIisgxngTKgMWtJvXLuHKQPqWUHTpkPIdYzkZPYyizRkBfzupAasfREolRRvrkHgyiSIEmkhbgfnhCJoABmpwRLADQOQUFT"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1704866254,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "aws-waf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0c8b8f5c-3955-43c8-bfbf-b179c21c633e:BQoAidUp3nsAAAAA:dxD39LlksO9IuYgCBLnSl7kdeQ+WQlAtBTF3+iDCUoWeJ6Jtpo//PyxdrJVU06DSTaT1jjU2uUwDJfpA1+84BYeKt520i7P1nXh+taM+Y6nXJrwpaQDKL88fRnJFxsCblwLc2oY7ISqaaaWhSfiiO6AaaZOcycD4Bz9epqPdODplxx9Jc0G6ns3LHFq/dd0HWCiPJ7wy/Xy88RAEzp0iNJd/mpBkbvEs6ec9YmMtO3rwVPJgvEtQiw99/9IeIoTXw1DxNHw4rMSmCA=="
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1704522455,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_sid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "cc078643-70f0-4da3-8fbe-0acbdc0cda9a772dcf"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1705730330.573063,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "hf-chat",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "bd5b01ea-65ce-460a-9e1d-eb5a85edd762"
+    }
+]
