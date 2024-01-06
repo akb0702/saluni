@@ -18,11 +18,11 @@ def setup_vertexai_client():
     client = aiplatform.Client(project='docufy-265106')
 
 # Set page configuration
-st.set_page_config(page_title="ChatMATE - Chat Multi-purpose AI Technology")
+st.set_page_config(page_title="Saluni - Ask Me Anything")
 
 # Initialize session state variables if they don't exist
 if 'bot_response' not in st.session_state:
-    st.session_state['bot_response'] = ["I'm ChatMATE, How may I help you?"]
+    st.session_state['bot_response'] = ["I'm Saluni, How may I help you?"]
 if 'user_input' not in st.session_state:
     st.session_state['user_input'] = ['Hi!']
 
